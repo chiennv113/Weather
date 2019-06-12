@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="searchName">Tên thành phố</string>
+    <string name="btnSearch">OK</string>
+    <string name="cityName">Tên thành phố</string>
+    <string name="nationName">Tên quốc gia</string>
+    <string name="tvNhietDo">Nhiệt độ</string>
+    <string name="tvTrangThai">Trạng thái</string>
+    <string name="tvDoAm">ĐỘ ẨM</string>
+    <string name="tvHumidity">Độ ẩm</string>
+    <string name="tvTocDoGio">TỐC ĐỘ GIÓ</string>
+    <string name="tvSpeedWind">Tốc độ gió</string>
+    <string name="btnNextDay">Các ngày tiếp theo</string>
+    <string name="tvMay">MÂY</string>
+    <string name="tvCloud">Mây</string>
+    <string name="tvApSuat">ÁP SUẤT</string>
+    <string name="tvMatTroiMoc">MẶT TRỜI MỌC</string>
+    <string name="tvMatTroiLan">MẶT TRỜI LẶN</string>
+    <string name="tvTenTP">Tên thành phố</string>
+    <string name="ngay">Ngày tháng</string>
+    <string name="trangthai">Trạng thái</string>
+    <string name="tvmax">Max</string>
+    <string name="tvMin">Min</string>
+</resources>
